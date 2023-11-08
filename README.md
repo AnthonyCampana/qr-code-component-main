@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/AnthonyCampana/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://anthonycampana.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -37,6 +37,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### What I learned
+
+From this project I learned more about images and how to add multiple images to a backgrtound. I also learned how to adjust these images and their size. 
 
 ### Useful resources
 
